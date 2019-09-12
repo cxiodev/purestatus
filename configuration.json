@@ -1,0 +1,10 @@
+{
+  "token": "token here...",
+  "status_pattern": "[Moscow] Emoji Time: %emoji_time%, Text time: %current_time%",
+  "time_pattern": "%H:%M",
+  "timezone": "Europe/Moscow",
+  "lifetime_online_settings": {
+    "enabled": false,
+    "voip": true
+  }
+}
